@@ -1,4 +1,3 @@
-layout_spectrum: 0.0801326660439372
 typography_spectrum: 0.6470427601598203
 color:
   brandStrength: 0.03949132771231234
@@ -6,9 +5,13 @@ color:
   saturation: 0.7146669041831046
   rhythmicContrast: 0.3804175660479814
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+layout_spectrum: 0.0801326660439372
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac63b1a9-db47-4c3e-bff4-fbeece05cebf.png
 name: Doomed Canadian
+title: At least you've got your health
