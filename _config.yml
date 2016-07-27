@@ -14,4 +14,8 @@ layout_spectrum: 0.0801326660439372
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac63b1a9-db47-4c3e-bff4-fbeece05cebf.png
 name: Doomed Canadian
+navigation:
+  - id: 827f6767-58bb-40c7-857d-cc78737e2074
+    name: About
+    type: content
 title: At least you've got your health
